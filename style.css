@@ -1,0 +1,101 @@
+.top{
+    background-color:rgb(34, 148, 255);
+    height: 100px;
+    border-radius: 18px;
+}
+
+#bookex{
+    color: black;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    position: relative;
+    left: 300px;
+    bottom: 18px;
+}
+
+#logo{
+    height: 100px;
+    width: 250px;
+    position: relative;
+    left: 220px;
+    
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600px;
+}
+
+
+
+h3{
+    font-size: 20px;
+}
+
+
+
+#IOS{
+    background-color:rgb(34, 148, 255) ;
+    display: block;
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 40px;
+    color: white;
+    border: 0px;
+}
+ 
+#iosl{
+    text-decoration: none;
+    color: white;
+}
+
+#IOS:hover{
+    height: 120px;
+    width: 320px;
+    border-radius: 10px;
+    background-color: rgb(30, 101, 167) ;
+}
+
+
+#APK{
+    background-color:rgb(34, 148, 255) ;
+    display: block;
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 40px;
+    color: white;
+    border: 0px;
+}
+
+#apkl{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#APK:hover{
+    height: 120px;
+    width: 320px;
+    border-radius: 10px;
+    background-color: rgb(30, 101, 167) ;
+    
+}
+
+.contact{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.contacti{
+    color: rgb(10, 13, 20);
+}
+
+
+.ct{
+    font-size: 20px;
+    font-weight: 300;
+}
